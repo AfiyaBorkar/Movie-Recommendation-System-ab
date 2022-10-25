@@ -1,0 +1,1 @@
+web: gunicorn app:MRS --log-file - --log-level debug
